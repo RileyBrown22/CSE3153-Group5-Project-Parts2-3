@@ -10,6 +10,7 @@ Run the SQL in `part2-sql/` in order: `01-create-tables.sql`, `02-insert-data.sq
 | `part2-sql/03-queries.sql`, Queries 4–5 | Services per customer; most expensive service | Jacob |
 | `part3-webapp/` | ASP.NET pages for Customer, Product, Purchase | Richard |
 | `docs/` | Division of labor; Richard's screenshots doc | |
+| `submission/` | Final files to turn in: `Group5_Part2.sql` (all SQL in one file), `Group5_Screenshots.docx` (query and web page screenshots), `screenshots/` | Group |
 
 Each query in `03-queries.sql` has a `-- Query N (Name)` header. To see one person's work: `git log --author=<github name>` or `git blame part2-sql/03-queries.sql`.
 
